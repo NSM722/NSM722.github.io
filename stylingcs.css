@@ -1,0 +1,147 @@
+h5 {
+    font-weight: bold;
+    color: rgb(71, 53, 6);
+    opacity: 8px;
+}
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 16px;
+    background-color: rgb(233, 212, 190);
+    font-weight: bold;
+}
+
+.navbar-brand a {
+    color: gold;
+    font-size: 24px;
+    text-align: center;
+}
+#coffedrinks h5 {
+    padding-bottom: 0px;
+}
+
+#coffedrinks img{
+    border: 2px solid black;
+    opacity: 4px;
+}
+#coffeedrinks p {
+    padding-bottom: 0px;
+}
+#coffeedrinks {
+    border: 3px dashed rgb(73, 55, 11);
+}
+.carousel-item img {
+    height: 375px;
+    width: 100%;
+    position: relative;
+    object-fit: cover;
+}
+.carousel-caption p {
+    color:rgb(238, 171, 0);
+    font-weight: bold;
+}
+.icons i {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 6px 15px 8px 15px;
+}
+.icons i:hover{
+    cursor: pointer;
+}
+.icons a:nth-child(3) {
+    color: rgb(255, 255, 0);
+    opacity: 10px;
+}
+.icons a:last-child {
+    color: #a60059;
+    opacity: 25px;
+}
+
+#TeamPg {
+    /*    color: rgb(41, 18, 18);    */
+    position: relative;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: rgb(233, 212, 190);
+    background-repeat: no-repeat;
+}
+#contact_pic img {
+    height: 380px;
+}
+
+/* styling nav bar items*/
+.nav-item:hover, .nav-link active:hover {
+    background-color: rgb(150, 110, 10);
+    opacity: 3;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#Randomusers_headline {
+    color: blanchedalmond;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+#Randomusers {
+    border-radius: 10px;
+    color: blanchedalmond;
+    font-weight: bold;
+    margin: 2px;
+    border: 2px solid goldenrod;
+    background-image: url("https://res.cloudinary.com/dxxysm630/image/upload/v1637660890/bg_Randomusers_iklrca.jpg");
+    background-repeat: repeat;
+    /*background-color: rgb(12, 0, 0);
+    background-color: rgb(36, 35, 35);
+    background-image: url("https://res.cloudinary.com/dxxysm630/image/upload/v1637660139/bg_Randomusers_hzefti.jpg");
+    background-repeat: no-repeat;
+    background-image: url('https://res.cloudinary.com/dxxysm630/image/upload/v1637084575/bg_img_grzu4h.jpg');*/
+}
+#Randomusers  h4{
+    color: whitesmoke;
+}
+.comments-form {
+    padding: 5px;
+    align-content: center;
+}
+  
+.comments-form .comments-group {
+    padding-bottom: 10px;
+}
+.comments-form label {
+    display: block;
+}
+.comments-form input[type="text"],
+.comments-form textarea {
+    padding: 5px;
+    width: 50%;
+}
+.comments-form .button {
+    padding: 10px 15px;
+    background-color: rgb(4, 32, 18);
+    color: goldenrod;
+}
+
+footer {
+    background: #ad3838;
+    padding: 18px 0;
+    text-align: center;
+    color: #fadddd;
+    font-size: 14px;
+    bottom: 0;
+}
+#mainfooter p {
+    margin: 2px;
+    color: antiquewhite; 
+    font-size: 14px;
+    text-align: center;
+}
+#mainfooter p:hover {
+    color: goldenrod; 
+    cursor: pointer;
+}
+footer {
+    background-color: rgb(37, 34, 34);
+    margin-bottom: 0;
+    margin-top: 10px;
+    position: relative;
+}
